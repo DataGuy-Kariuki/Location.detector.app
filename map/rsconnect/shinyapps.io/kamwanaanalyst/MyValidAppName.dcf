@@ -1,0 +1,10 @@
+name: MyValidAppName
+title:
+username: kamwanaanalyst
+account: kamwanaanalyst
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13090585
+bundleId: 9254215
+url: https://kamwanaanalyst.shinyapps.io/MyValidAppName/
+version: 1
