@@ -1,0 +1,1 @@
+Here my application link that I use to detect if my customers originate from the same location. This will help us to detect fraud as an organization : https://kamwanaanalyst.shinyapps.io/MyValidAppName/
